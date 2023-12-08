@@ -1,0 +1,19 @@
+{
+  "name": "hell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js",
+    "dev": "vite --port 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^10.7.1",
+    "read-excel-file": "^5.7.1",
+    "vite": "^5.0.6"
+  }
+}
